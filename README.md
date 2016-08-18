@@ -1,3 +1,2 @@
-# ftp
-# php ftp local dir to remote dir
-# there is a test,just run it
+
+php ftp 上传目录到服务器目录
